@@ -1,0 +1,10 @@
+[package]
+name = "rget"
+version = "0.1.0"
+authors = ["VitalyR <vitalyankh@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap="2.32.0"
+indicatif = "0.9.0"
+
